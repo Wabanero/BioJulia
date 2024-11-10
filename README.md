@@ -1,5 +1,5 @@
 # BioJulia
-![Julia Set Logo](Images/logo biojulia.png) 
+![alt text](https://github.com/Wabanero/BioJulia/blob/main/Images/logo%20biojulia.png)
 Julia Set Generator from FASTA Sequences
 
 ## INTRODUCTION
