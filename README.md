@@ -1,5 +1,8 @@
-# Julia Set Generator from FASTA Sequences
-##INTRODUCTION
+# BioJulia
+![Julia Set Logo](Images/logo biojulia.png) 
+Julia Set Generator from FASTA Sequences
+
+## INTRODUCTION
 
 ### Julia Sets
 
@@ -36,15 +39,15 @@ By [Simpsons contributor](https://en.wikipedia.org/wiki/User:Simpsons_contributo
 
 ### Rationale
 
-####Visual Encoding:
+#### Visual Encoding:
 
 Julia sets transform sequences into images, allowing the use of image-based deep learning models.
 
-####Capturing Complexity:
+#### Capturing Complexity:
 
 The iterative nature of Julia sets can encapsulate complex relationships within the sequence data.
 
-####Unique Representations:
+#### Unique Representations:
 
 Different sequences produce distinct Julia sets, preserving the uniqueness of each gene or genetic variant.
 
