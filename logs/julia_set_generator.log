@@ -1,0 +1,74 @@
+2024-11-08 19:09:47,862 - INFO - Logging configured successfully.
+2024-11-08 19:09:47,862 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-08 19:09:47,862 - INFO - Processing Sequence 1: Complex Constant c = (1.4091970802919707+1.4547445255474454j)
+2024-11-08 19:09:54,922 - INFO - Saved Julia set image for sequence 1 to output/images\julia_1.png
+2024-11-08 19:09:54,922 - INFO - Processing Sequence 2: Complex Constant c = (-1.284452296819788-1.4798081776880363j)
+2024-11-08 19:10:01,887 - INFO - Saved Julia set image for sequence 2 to output/images\julia_2.png
+2024-11-08 19:10:01,887 - INFO - Processing Sequence 3: Complex Constant c = (-1.3766362554541849+1.4996033320111066j)
+2024-11-08 19:10:08,746 - INFO - Saved Julia set image for sequence 3 to output/images\julia_3.png
+2024-11-08 19:11:20,970 - INFO - Logging configured successfully.
+2024-11-08 19:11:20,970 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-08 19:11:20,970 - INFO - Processing Sequence 1: Complex Constant c = (1.4091970802919707+1.4547445255474454j)
+2024-11-08 19:11:26,803 - INFO - Saved Julia set image for sequence 1 to output/images\julia_1.png
+2024-11-08 19:11:26,803 - INFO - Processing Sequence 2: Complex Constant c = (-1.284452296819788-1.4798081776880363j)
+2024-11-08 19:11:32,531 - INFO - Saved Julia set image for sequence 2 to output/images\julia_2.png
+2024-11-08 19:11:32,531 - INFO - Processing Sequence 3: Complex Constant c = (-1.3766362554541849+1.4996033320111066j)
+2024-11-08 19:11:38,271 - INFO - Saved Julia set image for sequence 3 to output/images\julia_3.png
+2024-11-08 19:12:04,624 - INFO - Logging configured successfully.
+2024-11-08 19:12:04,624 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-08 19:12:04,624 - INFO - Processing Sequence 1: Complex Constant c = (1.4091970802919707+1.4547445255474454j)
+2024-11-08 19:12:13,313 - INFO - Saved Julia set image for sequence 1 to output/images\julia_1.png
+2024-11-08 19:12:13,313 - INFO - Processing Sequence 2: Complex Constant c = (-1.284452296819788-1.4798081776880363j)
+2024-11-08 19:12:22,012 - INFO - Saved Julia set image for sequence 2 to output/images\julia_2.png
+2024-11-08 19:12:22,012 - INFO - Processing Sequence 3: Complex Constant c = (-1.3766362554541849+1.4996033320111066j)
+2024-11-08 19:12:30,483 - INFO - Saved Julia set image for sequence 3 to output/images\julia_3.png
+2024-11-10 13:07:16,650 - INFO - Logging configured successfully.
+2024-11-10 13:07:16,650 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-10 13:07:16,666 - INFO - Processing Sequence 1: Complex Constant c = (1.4091970802919707+1.4547445255474454j)
+2024-11-10 13:07:27,325 - INFO - Saved Julia set image for sequence 1 to output/images\julia_1.png
+2024-11-10 13:07:27,333 - INFO - Processing Sequence 2: Complex Constant c = (-1.284452296819788-1.4798081776880363j)
+2024-11-10 13:07:36,410 - INFO - Saved Julia set image for sequence 2 to output/images\julia_2.png
+2024-11-10 13:07:36,410 - INFO - Processing Sequence 3: Complex Constant c = (-1.3766362554541849+1.4996033320111066j)
+2024-11-10 13:07:44,934 - INFO - Saved Julia set image for sequence 3 to output/images\julia_3.png
+2024-11-10 13:21:09,172 - INFO - Logging configured successfully.
+2024-11-10 13:21:09,188 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-10 13:21:09,188 - INFO - Processing Sequence 1: Complex Constant c = (-0.4114552893045003-0.4742840444184687j)
+2024-11-10 13:21:22,975 - INFO - Saved Julia set image for sequence 1 to output/images\julia_1.png
+2024-11-10 13:21:22,981 - INFO - Processing Sequence 2: Complex Constant c = (-0.8468047486739075-0.5582217731750442j)
+2024-11-10 13:21:32,727 - INFO - Saved Julia set image for sequence 2 to output/images\julia_2.png
+2024-11-10 13:21:32,727 - INFO - Processing Sequence 3: Complex Constant c = (-0.6679904686258936-0.562748212867355j)
+2024-11-10 13:21:41,919 - INFO - Saved Julia set image for sequence 3 to output/images\julia_3.png
+2024-11-10 13:23:34,986 - INFO - Logging configured successfully.
+2024-11-10 13:23:34,986 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-10 13:23:35,002 - INFO - Processing Sequence 1: Complex Constant c = (0.23604209295527281+0.0731657410114005j)
+2024-11-10 13:23:50,911 - INFO - Saved Julia set image for sequence 1 to output/images\julia_1.png
+2024-11-10 13:23:50,942 - INFO - Processing Sequence 2: Complex Constant c = (-0.3904497220818594-0.04729661445174348j)
+2024-11-10 13:24:08,063 - INFO - Saved Julia set image for sequence 2 to output/images\julia_2.png
+2024-11-10 13:24:08,078 - INFO - Processing Sequence 3: Complex Constant c = (-0.1598331346841476-0.07171235597934049j)
+2024-11-10 13:24:25,002 - INFO - Saved Julia set image for sequence 3 to output/images\julia_3.png
+2024-11-10 13:24:39,177 - INFO - Logging configured successfully.
+2024-11-10 13:24:39,193 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-10 13:24:39,200 - INFO - Processing Sequence 1: Complex Constant c = (-0.10890871854885899-0.3013458162668227j)
+2024-11-10 13:24:55,705 - INFO - Saved Julia set image for sequence 1 to output/images\julia_1.png
+2024-11-10 13:24:55,721 - INFO - Processing Sequence 2: Complex Constant c = (-0.8816055625790139-0.4864728192161821j)
+2024-11-10 13:25:05,583 - INFO - Saved Julia set image for sequence 2 to output/images\julia_2.png
+2024-11-10 13:25:05,598 - INFO - Processing Sequence 3: Complex Constant c = (-0.57766507557677-0.44311853619729513j)
+2024-11-10 13:25:19,262 - INFO - Saved Julia set image for sequence 3 to output/images\julia_3.png
+2024-11-10 19:17:27,999 - INFO - Logging configured successfully.
+2024-11-10 19:17:27,999 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-10 19:17:27,999 - INFO - Starting processing with 8 parallel processes.
+2024-11-10 19:17:30,805 - INFO - An error occurred during multiprocessing: process_sequence() got multiple values for argument 'args'
+2024-11-10 19:17:31,480 - INFO - Processing completed.
+2024-11-10 19:18:20,656 - INFO - Logging configured successfully.
+2024-11-10 19:18:20,672 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-10 19:18:20,672 - INFO - Starting processing with 8 parallel processes.
+2024-11-10 19:18:23,388 - INFO - An error occurred during multiprocessing: process_sequence() got multiple values for argument 'args'
+2024-11-10 19:18:23,932 - INFO - Processing completed.
+2024-11-10 19:19:16,170 - INFO - Logging configured successfully.
+2024-11-10 19:19:16,170 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-10 19:19:16,170 - INFO - Starting processing with 4 parallel processes.
+2024-11-10 19:19:27,612 - INFO - Processing completed.
+2024-11-10 19:21:01,072 - INFO - Logging configured successfully.
+2024-11-10 19:21:01,072 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-10 19:21:01,072 - INFO - Starting processing with 8 parallel processes.
+2024-11-10 19:21:22,490 - INFO - Processing completed.
