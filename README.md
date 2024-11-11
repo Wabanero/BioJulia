@@ -32,9 +32,8 @@ with infinite complexity.
 
 #### Visual Representation
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Example_image.jpg/800px-Example_image.jpg)
-
-*Julia set for f<sub>c</sub>, c = −0.8 + 0.156i*
+![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Julia_-0.70176_-0.3842.png)
+*Julia set for f<sub>c</sub>, c = −0.70176 − 0.3842i*
 
 By [Simpsons contributor](https://en.wikipedia.org/wiki/User:Simpsons_contributor)  [Link](https://commons.wikimedia.org/w/index.php?curid=109638427)
 
