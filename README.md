@@ -1,5 +1,6 @@
 # BioJulia
 ![alt text](https://github.com/Wabanero/BioJulia/blob/main/Images/logo%20biojulia.png)
+
 Julia Set Generator from FASTA Sequences
 
 ## INTRODUCTION
@@ -12,10 +13,10 @@ A Julia set is a complex fractal pattern generated using complex numbers and ite
 
 *Complex Number*
 
-A number of the form ```z = a + bj```, where:
+A number of the form ```z = a + bi```, where:
 - ```a``` is the real part.
 - ```b``` is the imaginary part.
-- ```j``` is the imaginary unit, satisfying j<sup>2</sup> = -1
+- ```i``` is the imaginary unit, satisfying i<sup>2</sup> = -1
 
 *Iteration*
 
