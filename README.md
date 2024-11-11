@@ -33,9 +33,14 @@ with infinite complexity.
 #### Visual Representation
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Julia_-0.70176_-0.3842.png)
+
 *Julia set for f<sub>c</sub>, c = −0.70176 − 0.3842i*
 
 By [Simpsons contributor](https://en.wikipedia.org/wiki/User:Simpsons_contributor)  [Link](https://commons.wikimedia.org/w/index.php?curid=109638427)
+
+![alt text](https://github.com/Wabanero/BioJulia/blob/main/output/images/julia_3.png)
+
+*Julia set for representation for gene NM_000903.3 [Homo sapiens NAD(P)H quinone dehydrogenase 1 (NQO1]*
 
 ### Rationale
 
